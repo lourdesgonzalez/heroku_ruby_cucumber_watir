@@ -1,3 +1,0 @@
-require 'watir'
-require 'cucumber'
-
